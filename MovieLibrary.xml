@@ -1,0 +1,1126 @@
+<MovieLibrary>
+	<Movie>The Addams Family
+		<Genre>Halloween</Genre>
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Addams Family Values
+		<Genre>Comedy</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>The Adventures of Huck Finn
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Alvin and the Chipmunks
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>An American Tail
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>An American Tail 2: Fieval Goes West
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Armageddon (edit)
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Astro Boy
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Atlantis
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Avengers
+		<Genre>Action</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Back to the Future
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Back to the Future II
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Back to the Future III
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Batman Begins
+		<Genre>Action</Genre>
+		<Genre>Halloween</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Bean: The Movie (edit)
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Beauty and the Beast
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Musical</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Bedknobs and Broomsticks
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Bewitched
+		<Genre>Comedy</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>The Bourne Identity
+		<Genre>Action</Genre>
+		<Genre>Thriller</Genre>
+		<Genre>Mystery</Genre>
+	</Movie>
+	<Movie>The Bourne Supremacy
+		<Genre>Action</Genre>
+		<Genre>Mystery</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>The Bourne Ultimatum
+		<Genre>Action</Genre>
+		<Genre>Mystery</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>A Bug&apos;s Life
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Cars
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Casper
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>Cast Away
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+	</Movie>
+	<Movie>Castle in the Sky
+		<Genre>Anime</Genre>
+	</Movie>
+	<Movie>The Chronicles of Narnia I: The Lion, the Witch, and the Wardrobe
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>City of Angels
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Clue
+		<Genre>Comedy</Genre>
+		<Genre>Mystery</Genre>
+	</Movie>
+	<Movie>The Court Jester
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Curious George
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Dances With Wolves
+		<Genre>Drama</Genre>
+	</Movie>
+	<Movie>Deep Impact
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Dennis the Menace
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Despicable Me
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Dragonheart
+		<Genre>Action</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Edward Scissorhands
+		<Genre>Drama</Genre>
+		<Genre>Halloween</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Elf
+		<Genre>Christmas</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Emma
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>The Emperor&apos;s New Groove
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Enchanted
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Ever After
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>An Extremely Goofy Movie
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Fantastic Four
+		<Genre>Action</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Fantastic Four II: Rise of the Silver Surfer
+		<Genre>Action</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Far and Away (edit)
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Fiddler on the Roof
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>The Fifth Element (edit)
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Finding Nemo
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Finian&apos;s Rainbow
+		<Genre>Comedy</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Flushed Away
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Fool&apos;s Gold
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>For Richer or Poorer
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Forrest Gump (edit)
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Gattaca (edit)
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Ghost Dad
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Ghostbusters (edit)
+		<Genre>Action</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Ghostbusters II (edit)
+		<Genre>Comedy</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>The Gods Must Be Crazy
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Gods Must Be Crazy II
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Goonies (edit)
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Great Mouse Detective
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Groundhog Day
+		<Genre>Comedy</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Harry and the Hendersons
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Hercules
+		<Genre>Action</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Hitch
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Hocus Pocus
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>Holes
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Home Alone
+		<Genre>Christmas</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Home Alone 2: Lost in New York
+		<Genre>Christmas</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>How to Train Your Dragon
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Howl&apos;s Moving Castle
+		<Genre>Anime</Genre>
+	</Movie>
+	<Movie>HP I: Harry Potter and the Philosopher&apos;s Stone
+		<Genre>Adventure</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>HP II: Harry Potter and the Chamber of Secrets
+		<Genre>Adventure</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>HP III: Harry Potter and the Prisoner of Azkaban
+		<Genre>Adventure</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>HP IV: Harry Potter and the Goblet of Fire
+		<Genre>Adventure</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>HP V: Harry Potter and the Order of the Phoenix
+		<Genre>Adventure</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>I, Robot
+		<Genre>Action</Genre>
+		<Genre>Mystery</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>I.Q.
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Ice Age
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Ice Age 2: The Meltdown
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>The Incredibles
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Independence Day
+		<Genre>Action</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Jeeves &amp; Wooster miniseries
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Jumanji
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>The Jungle Book
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Jurassic Park
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Jurassic Park II: The Lost World
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Jurassic Park III
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Kiki&apos;s Delivery Service
+		<Genre>Anime</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>A Knight&apos;s Tale (edit)
+		<Genre>Action</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Kung Fu Panda
+		<Genre>Action</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Labyrinth
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>The Lake House
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Legacy
+		<Genre>Christian</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Lemony Snicket&apos;s A Series of Unfortunate Events
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Lion King
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>A Little Princess
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Little Rascals
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Lord of the Rings I: The Fellowship of the Ring
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>The Lord of the Rings II: The Two Towers
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>The Lord of the Rings III: The Return of the King
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>The Man Who Knew Too Little
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Mary Poppins
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Mask of Zorro
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Matilda
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Maverick (edit)
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Meet Joe Black (edit)
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Meet the Robinsons
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Men In Black
+		<Genre>Action</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Men In Black II
+		<Genre>Action</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Miss Congeniality
+		<Genre>Action</Genre>
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Miss Congeniality 2: Armed and Fabulous
+		<Genre>Action</Genre>
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Mission Impossible
+		<Genre>Action</Genre>
+		<Genre>Mystery</Genre>
+		<Genre>Thriller</Genre>
+	</Movie>
+	<Movie>Monsters, Inc.
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Monty Python and the Holy Grail
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Mortal Kombat
+		<Genre>Action</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Mr. &amp; Mrs. Smith (edit)
+		<Genre>Action</Genre>
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Mr. Bean&apos;s Holiday
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Mr. Krueger&apos;s Christmas
+		<Genre>Christmas</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Christian</Genre>
+	</Movie>
+	<Movie>Mulan
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>The Mummy
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>The Mummy Returns
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>The Muppet Christmas Carol
+		<Genre>Christmas</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>The Muppet Movie
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Muppet Treasure Island
+		<Genre>Adventure</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Muppets From Space
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>The Muppets Take Manhattan
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>My Neighbor Totoro
+		<Genre>Family</Genre>
+		<Genre>Anime</Genre>
+	</Movie>
+	<Movie>National Treasure
+		<Genre>Action</Genre>
+		<Genre>Family</Genre>
+		<Genre>Mystery</Genre>
+	</Movie>
+	<Movie>Night at the Museum
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>North and South
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Not Quite Human
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Not Quite Human 2
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Romance</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Not Quite Human 3: Still Not Quite Human
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Office Space
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>The Other Side of Heaven
+		<Genre>Christian</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Overboard
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Persuasion
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Pirates of the Caribbean 1: The Curse of the Black Pearl
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Pirates of the Caribbean 2: Dead Man&apos;s Chest
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Pirates of the Caribbean 3: At World&apos;s End
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Pleasantville (edit)
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Ponyo
+		<Genre>Anime</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Popeye
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Pride and Prejudice miniseries
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>The Princess Bride
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Pure Luck
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Raising Arizona
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Ratatouille
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Road to El Dorado
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Robin Hood
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>The Rocketeer
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Romancing the Stone
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Runaway Bride
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Sabrina
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Scooby-Doo
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>Scooby-Doo 2: Monsters Unleashed
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Halloween</Genre>
+	</Movie>
+	<Movie>The Scorpion King
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Secondhand Lions
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+		<Genre>Mystery</Genre>
+	</Movie>
+	<Movie>The Secret Garden
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Secret World of Arrietty
+		<Genre>Anime</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Sense and Sensibility
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Seven Brides for Seven Brothers
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Musical</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Short Circuit (edit)
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Short Circuit 2 (edit)
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Shrek
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Shrek 2
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Shrek the Third
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Sleepless in Seattle
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Spider-Man
+		<Genre>Action</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Spider-Man 2
+		<Genre>Action</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Spider-Man 3
+		<Genre>Action</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>The Spiderwick Chronicles
+		<Genre>Adventure</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Spirited Away
+		<Genre>Anime</Genre>
+	</Movie>
+	<Movie>Star Wars Episode IV: A New Hope
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Star Wars Episode V: The Empire Strikes Back
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Star Wars Episode VI: Return of the Jedi
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>Stardust
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Stargate
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>The Sword in the Stone
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Tangled
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Tarzan
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>The Testaments
+		<Genre>Christian</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Three Amigos
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>The Three Musketeers
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>To This End Was I Born
+		<Genre>Christian</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Toy Story
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Toy Story 2
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Toy Story 3
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>The Twilight Saga I: Twilight
+		<Genre>Action</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>The Twilight Saga II: New Moon
+		<Genre>Action</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>The Twilight Saga III: Eclipse
+		<Genre>Action</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Unbreakable (edit)
+		<Genre>Drama</Genre>
+		<Genre>Mystery</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>Undercover Blues (edit)
+		<Genre>Action</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>Up
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Family</Genre>
+	</Movie>
+	<Movie>WALL-E
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Family</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>The Waterboy
+		<Genre>Comedy</Genre>
+	</Movie>
+	<Movie>Waterworld
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Science Fiction</Genre>
+	</Movie>
+	<Movie>The Wedding Planner
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>What Dreams May Come
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>While You Were Sleeping
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>Willow
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Comedy</Genre>
+		<Genre>Drama</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Willy Wonka and the Chocolate Factory
+		<Genre>Comedy</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+		<Genre>Musical</Genre>
+	</Movie>
+	<Movie>Winnie the Pooh: A Very Merry Pooh Year
+		<Genre>Adventure</Genre>
+		<Genre>Animated</Genre>
+		<Genre>Christmas</Genre>
+		<Genre>Family</Genre>
+		<Genre>Fantasy</Genre>
+	</Movie>
+	<Movie>Wives and Daughters miniseries
+		<Genre>Drama</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>X-Men
+		<Genre>Action</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>X-Men 2: X-Men United
+		<Genre>Action</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>X-Men 3: The Last Stand
+		<Genre>Action</Genre>
+		<Genre>Science Fiction</Genre>
+		<Genre>Superhero</Genre>
+	</Movie>
+	<Movie>You&apos;ve Got Mail
+		<Genre>Comedy</Genre>
+		<Genre>Romance</Genre>
+	</Movie>
+	<Movie>The Young Victoria
+		<Genre>Romance</Genre>
+	</Movie>
+</MovieLibrary>
